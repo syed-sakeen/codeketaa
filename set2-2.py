@@ -1,6 +1,6 @@
 a=input()
 b=reversed(a)
 if list(a)==list(b):
-    print("Palindrome")
+    print("yes")
 else:
     print("no")
