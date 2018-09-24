@@ -1,3 +1,3 @@
-n=int(input())
+s=int(input())
 m=int(input())
-print(n**m)
+print(s**m)
