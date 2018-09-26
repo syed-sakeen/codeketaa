@@ -1,5 +1,5 @@
 sk=int(input())
-a=5
-for i in range(0,a):
+a=6
+for i in range(1,a):
     b=sk*i
     print(b,end=' ')
