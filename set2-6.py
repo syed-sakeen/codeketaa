@@ -5,4 +5,4 @@ for num in range(s+1,k):
            if (num % i) == 0:
                break
        else:
-           print(num,end='')
+           print(num,end=' ')
